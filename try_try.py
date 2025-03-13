@@ -5,7 +5,7 @@ This script warps each input GeoTIFF so that it matches the exact grid
 the warped GeoTIFFs into a single multi-band output.
 
 Author: Julio Contreras
-Date: 2024-03-13
+Date: 2025-03-13
 """
 
 from pathlib import Path
