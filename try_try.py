@@ -175,7 +175,7 @@ if __name__ == "__main__":
     dir_images = Path("/home/contreras/Documents/GitHub/download_20m/bio")
     path_images = sorted(list(dir_images.glob("*.tif")))
 
-    dir_crop = Path("/home/contreras/Documents/GitHub/download_20m/crop2")
+    dir_crop = Path("/home/contreras/Documents/GitHub/download_20m/crop3")
     dir_crop.mkdir(exist_ok=True)
 
     final_tifs = []
