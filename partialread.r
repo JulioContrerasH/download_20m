@@ -1,5 +1,13 @@
-install.packages("raster")
+install.packages("systemfonts")
+install.packages("textshaping")
+install.packages("ragg")
+install.packages("pkgdown")
+install.packages("devtools")
 install.packages("terra")
+devtools::install_github("rspatial/terra")
+
+
+install.packages("raster")
 install.packages("ggplot2")
 install.packages("viridis")
 
